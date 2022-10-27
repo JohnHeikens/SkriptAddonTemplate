@@ -90,8 +90,8 @@ shadowJar {
 	archiveVersion = project.property("version")
 	archiveBaseName = project.name
 	classifier = ''
-	relocate 'eu.endercentral.crazy_advancements', 'me.limeglass.skacket.crazyadvancements'
-	relocate 'org.bstats', 'me.limeglass.skacket.bstats'
+	relocate 'eu.endercentral.crazy_advancements', 'com.johnheikens.skacket.crazyadvancements'
+	relocate 'org.bstats', 'com.johnheikens.skacket.bstats'
 	dependencies {
 		exclude(dependency('org.spigotmc:'))
 		exclude(dependency('org.yaml:'))
