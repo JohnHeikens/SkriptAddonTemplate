@@ -1,4 +1,4 @@
-name: Skacket
+name: skriptaddontemplate
 authors: [LimeGlass]
 version: @version@
 api-version: 1.13
