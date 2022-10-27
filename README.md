@@ -1,4 +1,4 @@
-# Skacket
+# Skript Addon Template
 
 An addon dedicated to hacking things and maintaining packet syntaxes.
 
