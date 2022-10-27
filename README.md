@@ -1,5 +1,3 @@
-# skriptaddontemplate
+# Skript Addon Template
 
-An addon dedicated to hacking things and maintaining packet syntaxes.
-
-[![SkriptHubViewTheDocs](http://skripthub.net/static/addon/ViewTheDocsButton.png)](http://skripthub.net/docs/?addon=skriptaddontemplate)
+A simple addon template with one condition to check if the addon is loaded correctly: [the] addon is loaded [correctly]
